@@ -12,6 +12,6 @@ Lab04 | [Slides](https://docs.google.com/presentation/d/1bIeMxajN5iK-1GdkiWj4Njp
 Lab05 | [Slides](https://docs.google.com/presentation/d/1wl-L7itGaGUDGrZWJVypdMG3MbgtXu6_lanBj0R43Nk/edit?usp=sharing)
 Lab07 | [Slides](https://docs.google.com/presentation/d/1Se9_bqMjQM9gHb7upthCx_q6rOueyNk-EHrWnqeaViM/edit?usp=sharing)
 Lab08 | Slides
-Lab09 | Slides
+Lab09 | [Slides](https://docs.google.com/presentation/d/1jkwxhGBYF7ftByNOc2uuZ28asQHtGQXFnU9As0IGn6M/edit?usp=sharing)
 Lab10 | Slides
 
